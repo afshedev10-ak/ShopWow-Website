@@ -2,7 +2,7 @@
 
 A fully responsive, front-end e-commerce demo built with **vanilla HTML, CSS, and JavaScript** — no frameworks, no build tools. Created as a portfolio piece to showcase UI/UX, interaction design, and clean front-end architecture.
 
-🔗 ##Live Demo:
+🔗 ## Live Demo:
 
 https://afshedev10-shopwow.netlify.app/
 
